@@ -1,0 +1,33 @@
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: 0.5;
+}
+
+
+.btn-primary-outline {
+    background-color: rgba(0,0,0,0);
+    border-color: transparent;
+    border-radius: 2px;
+    box-shadow: none;
+    padding: 5px;
+    font-family: 'East Sea Dokdo';
+    font-size: 6vw;
+}
+
+.btn-primary-outline i {
+  padding: 5px;
+  font-family: 'East Sea Dokdo';
+}
+/* Position text in the middle */
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
