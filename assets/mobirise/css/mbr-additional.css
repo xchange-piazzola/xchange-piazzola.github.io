@@ -1393,28 +1393,8 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #eae7dc;
 }
-.cid-rpMU1S6E8d {
-  background: #ffffff;
-}
-.cid-rpMU1S6E8d .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rpMU1S6E8d .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rpMU1S6E8d figcaption {
-  position: relative;
-}
-.cid-rpMU1S6E8d figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rpMU1S6E8d .image-block {
-    width: 100% !important;
-  }
+.cid-rpN0aSaXmK {
+  background-image: url("../../../assets/images/home-2000x1359.png");
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
