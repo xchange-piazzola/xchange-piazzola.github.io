@@ -5051,100 +5051,94 @@ body {
   color: #465052;
   text-align: right;
 }
-.cid-rpHKnKMm9O {
+.cid-rpMXZ95odq {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #e6e7e6;
 }
-.cid-rpHKnKMm9O .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-rpHKnKMm9O .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-rpHKnKMm9O .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-rpHKnKMm9O .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rpHKnKMm9O .row > .row {
-  display: block;
-}
-.cid-rpHKnKMm9O .mbr-gallery-item {
-  width: 100%;
-}
-.cid-rpHKnKMm9O .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #767676;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #767676, #45505b) !important;
-}
-.cid-rpHKnKMm9O .mbr-gallery-item > div {
-  position: relative;
-}
-.cid-rpHKnKMm9O .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rpHKnKMm9O .mbr-gallery-item > div:hover:before {
-  opacity: 0.4 !important;
-}
-.cid-rpHKnKMm9O .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rpHKnKMm9O .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #767676 !important;
-  opacity: 0.4;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #767676, #45505b) !important;
-}
-.cid-rpHKnKMm9O .gallery-item > div > span {
-  text-align: center;
-  color: #efd7bb;
-}
-.cid-rpMoEwF1mS {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rpMoEwF1mS h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rpMoEwF1mS p {
+.cid-rpMXZ95odq .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
+  font-weight: 300;
 }
-.cid-rpMoEwF1mS .card-box {
-  padding-top: 2rem;
+.cid-rpMXZ95odq .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
 }
-.cid-rpMoEwF1mS .card-wrapper {
+.cid-rpMXZ95odq .card_cont {
+  -o-transition: all .5s;
+  -ms-transition: all .5s;
+  -moz-transition: all .5s;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+  background-color: #eee;
+}
+.cid-rpMXZ95odq .card-front {
+  z-index: 2;
+  padding: 0;
+  width: 100%;
   height: 100%;
+  overflow: hidden;
+}
+.cid-rpMXZ95odq .card-front img {
+  height: 100%;
+  min-width: 100%;
+  width: auto;
+}
+.cid-rpMXZ95odq .card_back {
+  width: 100%;
+  height: 100%;
+  padding: 30px 30px;
+  color: #ffffff;
+  background-color: #767676;
+  z-index: 1;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+  -o-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+.cid-rpMXZ95odq .card {
+  min-height: 300px;
+}
+.cid-rpMXZ95odq .card:hover .card-front {
+  z-index: 1;
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+.cid-rpMXZ95odq .card:hover .card_back {
+  z-index: 2;
+  -o-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+}
+.cid-rpMXZ95odq .builderCard .card_back {
+  border-bottom-left-radius: 100px;
+}
+.cid-rpMXZ95odq .builderCard .card_cont {
+  -o-backface-visibility: hidden;
+  -ms-backface-visibility: hidd;
+  -moz-backface-visibility: visible;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
 }
 .cid-rpHRtfGVOb {
   padding-top: 30px;
