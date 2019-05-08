@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Poiret+One:400);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i);
 
 
 
@@ -20,35 +20,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Poiret One', display;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Poiret One', display;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Poiret One', display;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1.2rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.92rem;
 }
 .display-5 {
-  font-family: 'Poiret One', display;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1.3rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.08rem;
 }
 .display-7 {
-  font-family: 'Poiret One', display;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
@@ -658,7 +658,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Poiret One', display;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 0.9rem;
   line-height: 1.43;
   min-height: 3.5em;

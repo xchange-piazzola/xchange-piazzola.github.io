@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "xChange",
-    "currentPage": "raz.html",
+    "currentPage": "contextclues.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,15 +13,15 @@
         "warningColor": "#efd7bb",
         "dangerColor": "#e58661",
         "mainFont": "Rubik",
-        "display1Font": "Poiret One",
+        "display1Font": "Source Sans Pro",
         "display1Size": 4.25,
-        "display2Font": "Poiret One",
+        "display2Font": "Source Sans Pro",
         "display2Size": 3,
-        "display5Font": "Poiret One",
+        "display5Font": "Source Sans Pro",
         "display5Size": "1.3",
-        "display7Font": "Poiret One",
+        "display7Font": "Source Sans Pro",
         "display7Size": ".9",
-        "display4Font": "Poiret One",
+        "display4Font": "Source Sans Pro",
         "display4Size": "1.2",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
@@ -78,6 +78,11 @@
         "css": "'Poiret One', display",
         "name": "Poiret One",
         "url": "https://fonts.googleapis.com/css?family=Poiret+One:400"
+      },
+      {
+        "css": "'Source Sans Pro', sans-serif",
+        "name": "Source Sans Pro",
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
       }
     ],
     "versionFirst": "4.7.6",
