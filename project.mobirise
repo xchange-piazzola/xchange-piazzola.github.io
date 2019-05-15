@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "xChange",
-    "currentPage": "index.html",
+    "currentPage": "stands.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -20,7 +20,7 @@
         "display5Font": "Source Sans Pro",
         "display5Size": "1.3",
         "display7Font": "Source Sans Pro",
-        "display7Size": ".9",
+        "display7Size": "1",
         "display4Font": "Source Sans Pro",
         "display4Size": "1.2",
         "isRoundedButtons": true,
